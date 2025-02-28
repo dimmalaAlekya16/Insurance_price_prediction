@@ -1,0 +1,9 @@
+[ 2025-01-08 20:54:53,860 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-01-08 20:54:53,875 ] 97 werkzeug - INFO -  * Debugger PIN: 917-627-114
+[ 2025-01-08 20:54:55,403 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 20:54:55] "GET /predictdata HTTP/1.1" 200 -
+[ 2025-01-08 20:56:11,737 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 20:56:11] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2025-01-08 20:56:11,845 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 20:56:11] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2025-01-08 20:56:11,845 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 20:56:11] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2025-01-08 20:56:11,867 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 20:56:11] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=qoLfJDf066gFvYQbVYOB HTTP/1.1" 200 -
+[ 2025-01-08 20:56:11,882 ] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jan/2025 20:56:11] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2025-01-08 20:57:28,298 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Insurance_price_prediction_project\\app.py', reloading
